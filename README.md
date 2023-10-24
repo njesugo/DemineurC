@@ -1,2 +1,2 @@
 # DemineurC
-Démineur Game, But in Pure C
+Demineur Game, But in Pure C
