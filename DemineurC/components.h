@@ -26,4 +26,8 @@ struct partieDemineur{
 };
 typedef struct partieDemineur PartieDemineur;
 
+MapDemineur initMapDemineur(int, int, CaseDemineur);
+PartieDemineur savePartieDemineur(FILE*, MapDemineur, int, int);
+
+
 #endif
